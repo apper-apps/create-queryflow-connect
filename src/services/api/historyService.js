@@ -1,8 +1,8 @@
-import { mockHistory } from '@/services/mockData/history.json'
+import historyData from "@/services/mockData/history.json";
 
 class HistoryService {
   constructor() {
-    this.history = [...mockHistory]
+    this.history = [...historyData]
   }
   
   async getAll() {

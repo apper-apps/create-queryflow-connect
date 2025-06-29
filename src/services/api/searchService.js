@@ -1,4 +1,4 @@
-import { mockSearchResults } from '@/services/mockData/searchResults.json'
+import mockSearchResults from '@/services/mockData/searchResults.json'
 
 class SearchService {
   async search(query) {

@@ -1,4 +1,4 @@
-import { mockChatResponses } from '@/services/mockData/chatResponses.json'
+import mockChatResponses from '@/services/mockData/chatResponses.json'
 
 class ChatService {
   async sendMessage(message, conversationHistory = []) {

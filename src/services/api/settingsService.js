@@ -1,4 +1,7 @@
-import { mockSettings } from '@/services/mockData/settings.json'
+import mockSettingsData from '@/services/mockData/settings.json'
+
+// Use the imported data as mockSettings for consistency
+const mockSettings = mockSettingsData
 
 class SettingsService {
   constructor() {

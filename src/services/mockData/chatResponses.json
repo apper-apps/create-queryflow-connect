@@ -1,0 +1,116 @@
+[
+  {
+    "Id": 1,
+    "content": "I can help you find information on that topic. Based on my knowledge, this is a complex subject that requires careful consideration of multiple factors including technical feasibility, cost implications, and potential impact on stakeholders.",
+    "keywords": ["help", "information", "topic", "complex", "technical"],
+    "sources": [
+      {
+        "title": "Technical Documentation",
+        "url": "https://example.com/docs"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "content": "Artificial Intelligence and Machine Learning are transforming various industries by automating processes, improving decision-making, and enabling new capabilities. These technologies use algorithms to analyze data patterns and make predictions or recommendations.",
+    "keywords": ["ai", "artificial intelligence", "machine learning", "ml", "algorithms", "data"],
+    "sources": [
+      {
+        "title": "AI Research Paper",
+        "url": "https://example.com/ai-research"
+      },
+      {
+        "title": "Machine Learning Guide",
+        "url": "https://example.com/ml-guide"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "content": "Web development involves creating websites and web applications using various technologies. Modern web development typically includes frontend technologies like HTML, CSS, JavaScript, and frameworks like React or Vue.js, along with backend technologies for server-side logic and databases.",
+    "keywords": ["web development", "website", "html", "css", "javascript", "react", "vue", "backend", "frontend"],
+    "sources": [
+      {
+        "title": "Web Development Best Practices",
+        "url": "https://example.com/web-dev"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "content": "Data science combines statistics, programming, and domain expertise to extract insights from data. It involves data collection, cleaning, analysis, and visualization to help organizations make data-driven decisions. Common tools include Python, R, SQL, and various machine learning libraries.",
+    "keywords": ["data science", "statistics", "python", "data analysis", "visualization", "insights"],
+    "sources": [
+      {
+        "title": "Data Science Methodology",
+        "url": "https://example.com/data-science"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "content": "Cloud computing provides on-demand access to computing resources like servers, storage, and applications over the internet. Major cloud providers include AWS, Google Cloud, and Microsoft Azure. Benefits include scalability, cost-effectiveness, and reduced infrastructure management.",
+    "keywords": ["cloud computing", "aws", "azure", "google cloud", "scalability", "servers"],
+    "sources": [
+      {
+        "title": "Cloud Computing Overview",
+        "url": "https://example.com/cloud-computing"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "content": "Cybersecurity involves protecting digital systems, networks, and data from threats and attacks. Key practices include implementing strong authentication, regular security updates, employee training, and monitoring for suspicious activities. Common threats include malware, phishing, and data breaches.",
+    "keywords": ["cybersecurity", "security", "threats", "malware", "phishing", "protection"],
+    "sources": [
+      {
+        "title": "Cybersecurity Best Practices",
+        "url": "https://example.com/cybersecurity"
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "content": "Blockchain is a distributed ledger technology that maintains a continuously growing list of records, called blocks, which are linked and secured using cryptography. While known for cryptocurrencies, blockchain has applications in supply chain, healthcare, and digital identity management.",
+    "keywords": ["blockchain", "cryptocurrency", "distributed ledger", "cryptography", "bitcoin"],
+    "sources": [
+      {
+        "title": "Blockchain Technology Explained",
+        "url": "https://example.com/blockchain"
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "content": "Mobile app development involves creating applications for mobile devices. You can choose between native development (iOS/Android specific), cross-platform frameworks like React Native or Flutter, or hybrid approaches. Consider factors like performance, user experience, and development resources.",
+    "keywords": ["mobile app", "ios", "android", "react native", "flutter", "development"],
+    "sources": [
+      {
+        "title": "Mobile Development Guide",
+        "url": "https://example.com/mobile-dev"
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "content": "DevOps is a culture and set of practices that combines software development and IT operations to shorten development lifecycles and improve deployment frequency. Key tools include Docker for containerization, Kubernetes for orchestration, and CI/CD pipelines for automation.",
+    "keywords": ["devops", "docker", "kubernetes", "ci/cd", "automation", "deployment"],
+    "sources": [
+      {
+        "title": "DevOps Practices",
+        "url": "https://example.com/devops"
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "content": "Digital marketing leverages online channels to reach and engage customers. Modern strategies include content marketing, social media marketing, search engine optimization (SEO), pay-per-click advertising (PPC), and email marketing. AI and automation are increasingly important for personalization and efficiency.",
+    "keywords": ["digital marketing", "seo", "social media", "content marketing", "ppc", "email marketing"],
+    "sources": [
+      {
+        "title": "Digital Marketing Strategies",
+        "url": "https://example.com/digital-marketing"
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "Id": 1,
+    "filename": "Business_Plan_2024.pdf",
+    "type": "pdf",
+    "size": 2458649,
+    "extractedText": "This comprehensive business plan outlines our strategic objectives for 2024, including market expansion, revenue targets, and operational improvements. The document covers financial projections, competitive analysis, and risk mitigation strategies. Key focus areas include digital transformation, customer acquisition, and sustainable growth initiatives.",
+    "metadata": {
+      "mimeType": "application/pdf",
+      "lastModified": "2024-01-10T14:30:00Z",
+      "pages": 45
+    },
+    "uploadDate": "2024-01-15T09:15:00Z"
+  },
+  {
+    "Id": 2,
+    "filename": "Marketing_Strategy_Q1.docx",
+    "type": "docx",
+    "size": 1256789,
+    "extractedText": "First quarter marketing strategy document detailing campaign objectives, target audience analysis, and budget allocation. Includes social media strategy, content calendar, and performance metrics for measuring campaign effectiveness. Special focus on digital channels and customer engagement initiatives.",
+    "metadata": {
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "lastModified": "2024-01-12T11:20:00Z",
+      "pages": null
+    },
+    "uploadDate": "2024-01-15T10:45:00Z"
+  },
+  {
+    "Id": 3,
+    "filename": "Financial_Report_2023.xlsx",
+    "type": "xlsx",
+    "size": 3567891,
+    "extractedText": "Annual financial report containing detailed revenue analysis, expense breakdowns, and profit margins across all business units. Includes quarterly comparisons, trend analysis, and budget vs actual performance. Features comprehensive data visualization and executive summary dashboard.",
+    "metadata": {
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "lastModified": "2024-01-08T16:45:00Z",
+      "pages": null
+    },
+    "uploadDate": "2024-01-15T08:30:00Z"
+  },
+  {
+    "Id": 4,
+    "filename": "Product_Roadmap_Presentation.pptx",
+    "type": "pptx",
+    "size": 4123456,
+    "extractedText": "Product roadmap presentation for stakeholder review, covering upcoming features, development timelines, and resource requirements. Includes competitive analysis, user feedback integration, and technical architecture decisions. Visual timeline shows milestones and dependencies across multiple product lines.",
+    "metadata": {
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "lastModified": "2024-01-14T13:15:00Z",
+      "pages": null
+    },
+    "uploadDate": "2024-01-15T12:20:00Z"
+  },
+  {
+    "Id": 5,
+    "filename": "Technical_Documentation.pdf",
+    "type": "pdf",
+    "size": 1789234,
+    "extractedText": "Comprehensive technical documentation covering system architecture, API specifications, and deployment procedures. Includes troubleshooting guides, security protocols, and best practices for system maintenance. Detailed diagrams and code examples provided for developer reference.",
+    "metadata": {
+      "mimeType": "application/pdf",
+      "lastModified": "2024-01-11T10:30:00Z",
+      "pages": 28
+    },
+    "uploadDate": "2024-01-15T07:45:00Z"
+  },
+  {
+    "Id": 6,
+    "filename": "Employee_Handbook.doc",
+    "type": "doc",
+    "size": 987654,
+    "extractedText": "Employee handbook containing company policies, procedures, and guidelines for all staff members. Covers code of conduct, benefits information, performance evaluation processes, and professional development opportunities. Includes contact information for HR resources and support services.",
+    "metadata": {
+      "mimeType": "application/msword",
+      "lastModified": "2024-01-09T14:20:00Z",
+      "pages": null
+    },
+    "uploadDate": "2024-01-15T11:30:00Z"
+  },
+  {
+    "Id": 7,
+    "filename": "Sales_Data_Analysis.xls",
+    "type": "xls",
+    "size": 2345678,
+    "extractedText": "Sales performance analysis spreadsheet with detailed customer data, revenue trends, and regional performance metrics. Contains pivot tables, charts, and statistical analysis of sales patterns. Includes forecasting models and target vs achievement comparisons for sales teams.",
+    "metadata": {
+      "mimeType": "application/vnd.ms-excel",
+      "lastModified": "2024-01-13T09:45:00Z",
+      "pages": null
+    },
+    "uploadDate": "2024-01-15T13:10:00Z"
+  },
+  {
+    "Id": 8,
+    "filename": "Training_Materials.ppt",
+    "type": "ppt",
+    "size": 3456789,
+    "extractedText": "Comprehensive training presentation covering new employee orientation, software usage guidelines, and company procedures. Interactive modules with quizzes and practical exercises. Includes video links, resource materials, and certification requirements for completion.",
+    "metadata": {
+      "mimeType": "application/vnd.ms-powerpoint",
+      "lastModified": "2024-01-07T15:30:00Z",
+      "pages": null
+    },
+    "uploadDate": "2024-01-15T14:25:00Z"
+  }
+]

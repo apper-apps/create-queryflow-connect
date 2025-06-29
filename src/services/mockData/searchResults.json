@@ -1,0 +1,152 @@
+[
+  {
+    "Id": 1,
+    "title": "Advanced Machine Learning Techniques for Natural Language Processing",
+    "snippet": "Explore cutting-edge machine learning approaches including transformer architectures, attention mechanisms, and large language models. Learn how these techniques revolutionize text understanding and generation tasks.",
+    "url": "https://example.com/ml-nlp-guide",
+    "source": "web",
+    "score": 0.95,
+    "cached": false,
+    "timestamp": "2024-01-15T10:30:00Z"
+  },
+  {
+    "Id": 2,
+    "title": "Building Scalable Web Applications with Modern JavaScript Frameworks",
+    "snippet": "Comprehensive guide to creating high-performance web applications using React, Vue.js, and Angular. Covers state management, component architecture, and optimization strategies for large-scale projects.",
+    "url": "https://example.com/scalable-web-apps",
+    "source": "web",
+    "score": 0.88,
+    "cached": true,
+    "timestamp": "2024-01-15T09:45:00Z"
+  },
+  {
+    "Id": 3,
+    "title": "Artificial Intelligence in Healthcare: Transforming Patient Care",
+    "snippet": "Discover how AI technologies are revolutionizing healthcare delivery, from diagnostic imaging and drug discovery to personalized treatment plans and predictive analytics for better patient outcomes.",
+    "url": "https://example.com/ai-healthcare",
+    "source": "ai",
+    "score": 0.92,
+    "cached": false,
+    "timestamp": "2024-01-15T11:15:00Z"
+  },
+  {
+    "Id": 4,
+    "title": "Sustainable Energy Solutions for the Future",
+    "snippet": "Comprehensive analysis of renewable energy technologies including solar, wind, hydroelectric, and emerging solutions like fusion power. Examines environmental impact and economic viability.",
+    "url": "https://example.com/sustainable-energy",
+    "source": "web",
+    "score": 0.85,
+    "cached": true,
+    "timestamp": "2024-01-15T08:20:00Z"
+  },
+  {
+    "Id": 5,
+    "title": "Quantum Computing: Breaking Barriers in Computational Power",
+    "snippet": "Introduction to quantum computing principles, quantum algorithms, and potential applications in cryptography, optimization, and scientific simulation. Covers current limitations and future prospects.",
+    "url": "https://example.com/quantum-computing",
+    "source": "user",
+    "score": 0.90,
+    "cached": false,
+    "timestamp": "2024-01-15T12:00:00Z"
+  },
+  {
+    "Id": 6,
+    "title": "Cybersecurity Best Practices for Modern Organizations",
+    "snippet": "Essential cybersecurity strategies including threat assessment, incident response, employee training, and implementation of security frameworks to protect against evolving cyber threats.",
+    "url": "https://example.com/cybersecurity-practices",
+    "source": "web",
+    "score": 0.87,
+    "cached": true,
+    "timestamp": "2024-01-15T07:30:00Z"
+  },
+  {
+    "Id": 7,
+    "title": "Data Science and Analytics: Driving Business Intelligence",
+    "snippet": "Complete guide to data science methodologies, statistical analysis, machine learning implementation, and visualization techniques for extracting actionable insights from complex datasets.",
+    "url": "https://example.com/data-science-guide",
+    "source": "ai",
+    "score": 0.91,
+    "cached": false,
+    "timestamp": "2024-01-15T13:45:00Z"
+  },
+  {
+    "Id": 8,
+    "title": "Cloud Computing Architecture and Migration Strategies",
+    "snippet": "Detailed exploration of cloud computing models, migration planning, cost optimization, and security considerations for transitioning to cloud-based infrastructure and services.",
+    "url": "https://example.com/cloud-computing",
+    "source": "web",
+    "score": 0.83,
+    "cached": true,
+    "timestamp": "2024-01-15T06:15:00Z"
+  },
+  {
+    "Id": 9,
+    "title": "Internet of Things (IoT): Connecting the Digital World",
+    "snippet": "Comprehensive overview of IoT ecosystems, sensor networks, connectivity protocols, and real-world applications in smart cities, industrial automation, and consumer electronics.",
+    "url": "https://example.com/iot-overview",
+    "source": "user",
+    "score": 0.86,
+    "cached": false,
+    "timestamp": "2024-01-15T14:20:00Z"
+  },
+  {
+    "Id": 10,
+    "title": "Blockchain Technology: Beyond Cryptocurrency Applications",
+    "snippet": "Explore blockchain fundamentals, consensus mechanisms, smart contracts, and innovative applications in supply chain management, digital identity, and decentralized finance.",
+    "url": "https://example.com/blockchain-tech",
+    "source": "web",
+    "score": 0.89,
+    "cached": true,
+    "timestamp": "2024-01-15T05:00:00Z"
+  },
+  {
+    "Id": 11,
+    "title": "Artificial Intelligence Ethics and Responsible AI Development",
+    "snippet": "Critical examination of AI ethics, bias mitigation, transparency requirements, and frameworks for developing responsible AI systems that benefit society while minimizing potential harm.",
+    "url": "https://example.com/ai-ethics",
+    "source": "ai",
+    "score": 0.94,
+    "cached": false,
+    "timestamp": "2024-01-15T15:30:00Z"
+  },
+  {
+    "Id": 12,
+    "title": "Mobile App Development: Native vs Cross-Platform Solutions",
+    "snippet": "Comparative analysis of mobile development approaches including native iOS/Android development, React Native, Flutter, and hybrid solutions. Covers performance, user experience, and development costs.",
+    "url": "https://example.com/mobile-development",
+    "source": "web",
+    "score": 0.82,
+    "cached": true,
+    "timestamp": "2024-01-15T16:45:00Z"
+  },
+  {
+    "Id": 13,
+    "title": "DevOps Culture and Continuous Integration/Continuous Deployment",
+    "snippet": "Best practices for implementing DevOps methodologies, automation pipelines, containerization with Docker, orchestration with Kubernetes, and monitoring strategies for reliable software delivery.",
+    "url": "https://example.com/devops-guide",
+    "source": "user",
+    "score": 0.88,
+    "cached": false,
+    "timestamp": "2024-01-15T17:20:00Z"
+  },
+  {
+    "Id": 14,
+    "title": "Virtual and Augmented Reality: Immersive Technology Applications",
+    "snippet": "Exploration of VR/AR technologies, hardware requirements, development frameworks, and applications in gaming, education, healthcare, training, and industrial design.",
+    "url": "https://example.com/vr-ar-tech",
+    "source": "web",
+    "score": 0.84,
+    "cached": true,
+    "timestamp": "2024-01-15T18:00:00Z"
+  },
+  {
+    "Id": 15,
+    "title": "Digital Marketing Strategies in the Age of AI",
+    "snippet": "Modern digital marketing approaches leveraging artificial intelligence, personalization algorithms, predictive analytics, and automation tools to enhance customer engagement and conversion rates.",
+    "url": "https://example.com/ai-digital-marketing",
+    "source": "ai",
+    "score": 0.87,
+    "cached": false,
+    "timestamp": "2024-01-15T19:15:00Z"
+  }
+]

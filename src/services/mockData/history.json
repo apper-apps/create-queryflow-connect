@@ -1,0 +1,128 @@
+[
+  {
+    "Id": 1,
+    "query": "machine learning algorithms for natural language processing",
+    "mode": "search",
+    "results": [
+      {
+        "title": "Advanced ML Techniques for NLP",
+        "snippet": "Comprehensive guide to machine learning in NLP..."
+      }
+    ],
+    "timestamp": "2024-01-15T14:30:00Z",
+    "userId": null
+  },
+  {
+    "Id": 2,
+    "query": "How do neural networks work?",
+    "mode": "chat",
+    "results": [],
+    "timestamp": "2024-01-15T13:45:00Z",
+    "userId": null
+  },
+  {
+    "Id": 3,
+    "query": "best practices for web development security",
+    "mode": "search",
+    "results": [
+      {
+        "title": "Web Security Best Practices",
+        "snippet": "Essential security measures for web applications..."
+      }
+    ],
+    "timestamp": "2024-01-15T12:20:00Z",
+    "userId": null
+  },
+  {
+    "Id": 4,
+    "query": "Explain quantum computing concepts",
+    "mode": "chat",
+    "results": [],
+    "timestamp": "2024-01-15T11:15:00Z",
+    "userId": null
+  },
+  {
+    "Id": 5,
+    "query": "cloud computing migration strategies",
+    "mode": "search",
+    "results": [
+      {
+        "title": "Cloud Migration Guide",
+        "snippet": "Step-by-step approach to cloud migration..."
+      }
+    ],
+    "timestamp": "2024-01-15T10:30:00Z",
+    "userId": null
+  },
+  {
+    "Id": 6,
+    "query": "What is blockchain technology?",
+    "mode": "chat",
+    "results": [],
+    "timestamp": "2024-01-15T09:45:00Z",
+    "userId": null
+  },
+  {
+    "Id": 7,
+    "query": "data science career path and skills",
+    "mode": "search",
+    "results": [
+      {
+        "title": "Data Science Career Guide",
+        "snippet": "Complete roadmap for data science professionals..."
+      }
+    ],
+    "timestamp": "2024-01-15T08:20:00Z",
+    "userId": null
+  },
+  {
+    "Id": 8,
+    "query": "How to optimize database performance?",
+    "mode": "chat",
+    "results": [],
+    "timestamp": "2024-01-15T07:35:00Z",
+    "userId": null
+  },
+  {
+    "Id": 9,
+    "query": "artificial intelligence ethics and bias",
+    "mode": "search",
+    "results": [
+      {
+        "title": "AI Ethics Framework",
+        "snippet": "Ethical considerations in AI development..."
+      }
+    ],
+    "timestamp": "2024-01-14T16:50:00Z",
+    "userId": null
+  },
+  {
+    "Id": 10,
+    "query": "Explain microservices architecture",
+    "mode": "chat",
+    "results": [],
+    "timestamp": "2024-01-14T15:25:00Z",
+    "userId": null
+  },
+  {
+    "Id": 11,
+    "query": "cybersecurity threats 2024 trends",
+    "mode": "search",
+    "results": [
+      {
+        "title": "Cybersecurity Threat Landscape 2024",
+        "snippet": "Emerging cybersecurity threats and defense strategies..."
+      }
+    ],
+    "timestamp": "2024-01-14T14:10:00Z",
+    "userId": null
+  },
+  {
+    "Id": 12,
+    "query": "What are the benefits of DevOps?",
+    "mode": "chat",
+    "results": [],
+    "timestamp": "2024-01-14T13:40:00Z",
+    "userId": null
+  }
+]

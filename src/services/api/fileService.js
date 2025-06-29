@@ -1,4 +1,4 @@
-import { mockFiles } from '@/services/mockData/files.json'
+import mockFiles from '@/services/mockData/files.json'
 
 class FileService {
   constructor() {
